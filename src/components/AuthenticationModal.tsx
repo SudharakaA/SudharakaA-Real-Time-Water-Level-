@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -62,7 +61,7 @@ const AuthenticationModal = ({ onLogin }: AuthenticationModalProps) => {
     <div 
       className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-600 via-cyan-600 to-teal-600 p-4"
       style={{
-        backgroundImage: `linear-gradient(rgba(0, 150, 200, 0.8), rgba(0, 150, 200, 0.8)), url('/lovable-uploads/40fbd451-256d-4e46-94fb-25328c43de28.png')`,
+        backgroundImage: `linear-gradient(rgba(0, 150, 200, 0.8), rgba(0, 150, 200, 0.8)), url('/uploads/40fbd451-256d-4e46-94fb-25328c43de28.png')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center'
       }}

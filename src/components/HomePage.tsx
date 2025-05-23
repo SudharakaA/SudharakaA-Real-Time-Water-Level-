@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -16,7 +15,7 @@ const HomePage = ({ user }: HomePageProps) => {
       <div className="relative rounded-xl overflow-hidden">
         <div className="absolute inset-0">
           <img 
-            src="/lovable-uploads/40fbd451-256d-4e46-94fb-25328c43de28.png" 
+            src="/uploads/40fbd451-256d-4e46-94fb-25328c43de28.png" 
             alt="Water Monitoring" 
             className="w-full h-full object-cover"
           />

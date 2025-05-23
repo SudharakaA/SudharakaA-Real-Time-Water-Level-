@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { useState } from 'react';
 import { Tabs, TabsContent } from '@/components/ui/tabs';
@@ -53,7 +52,7 @@ const Index = () => {
       <div 
         className="absolute inset-0 opacity-5 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url('/lovable-uploads/40fbd451-256d-4e46-94fb-25328c43de28.png')`
+          backgroundImage: `url('/uploads/40fbd451-256d-4e46-94fb-25328c43de28.png')`
         }}
       />
       

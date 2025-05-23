@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -16,7 +15,7 @@ const LandingPage = ({ onGetStarted }: LandingPageProps) => {
         <div 
           className="absolute inset-0 opacity-10 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('/lovable-uploads/40fbd451-256d-4e46-94fb-25328c43de28.png')`
+            backgroundImage: `url('/uploads/40fbd451-256d-4e46-94fb-25328c43de28.png')`
           }}
         />
         
@@ -26,7 +25,7 @@ const LandingPage = ({ onGetStarted }: LandingPageProps) => {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-4">
                 <img 
-                  src="/lovable-uploads/574a632e-5669-4e7f-94f5-cf1644cf8b67.png" 
+                  src="/uploads/574a632e-5669-4e7f-94f5-cf1644cf8b67.png" 
                   alt="Department Logo" 
                   className="h-12 w-auto"
                 />
@@ -201,7 +200,7 @@ const LandingPage = ({ onGetStarted }: LandingPageProps) => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="/lovable-uploads/40fbd451-256d-4e46-94fb-25328c43de28.png" 
+                src="/uploads/40fbd451-256d-4e46-94fb-25328c43de28.png" 
                 alt="Monitoring Station" 
                 className="w-full rounded-lg shadow-lg"
               />

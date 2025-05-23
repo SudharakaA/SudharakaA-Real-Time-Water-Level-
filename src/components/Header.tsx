@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Button } from '@/components/ui/button';
 import { LogOut, User } from 'lucide-react';
@@ -16,7 +15,7 @@ const Header = ({ user, onLogout }: HeaderProps) => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4">
             <img 
-              src="/lovable-uploads/574a632e-5669-4e7f-94f5-cf1644cf8b67.png" 
+              src="/uploads/574a632e-5669-4e7f-94f5-cf1644cf8b67.png" 
               alt="Department Logo" 
               className="h-12 w-auto"
             />
