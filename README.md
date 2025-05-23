@@ -18,7 +18,7 @@ Real time Water and Rain Level Insight Hub is a comprehensive platform designed 
     ```
 2. Navigate to the project directory:
     ```bash
-    cd aqua-level-insight-hub
+    cd Real-Time-Water-Level-
     ```
 3. Follow the setup instructions in the `docs/` or `INSTALL.md` file.
 
